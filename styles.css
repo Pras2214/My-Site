@@ -130,3 +130,9 @@ p {
   padding-top: 175px;
   position: relative;
 }
+.weird-hr {
+  margin: 100px auto;
+  border-style: none;
+  border-top: 6px dotted white;
+  width: 5%;
+}
